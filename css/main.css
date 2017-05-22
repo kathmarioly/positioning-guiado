@@ -1,3 +1,27 @@
-*{
-	background-color: red;
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+
+.caja{
+	width: 200px;
+	padding: 200px;
+}
+
+#rosa{
+	background-color: #EE3E64;
+}
+
+#azul{
+	background-color: #2b7db9;
+
+}
+
+#verde{
+	background-color: #B7D84B;
 }
