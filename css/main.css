@@ -10,7 +10,7 @@ body{
 
 .caja{
 	width: 200px;
-	padding: 200px;
+	height: 200px;
 }
 
 #rosa{
@@ -19,7 +19,8 @@ body{
 
 #azul{
 	background-color: #2b7db9;
-
+	position: relative;
+	left: 200px;
 }
 
 #verde{
