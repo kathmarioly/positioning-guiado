@@ -11,18 +11,29 @@ body{
 .caja{
 	width: 200px;
 	height: 200px;
+	position: absolute;
 }
 
 #rosa{
 	background-color: #EE3E64;
+	left: 0;
+	top: 0;
 }
 
 #azul{
 	background-color: #2b7db9;
-	position: relative; /* para que la posicion dependa de sus propias cordenas*/
-	left: 200px;
+	/*position: relative;  para que la posicion dependa de sus propias cordenas*/
+	right: 0;
+	top: 0;
 }
 
 #verde{
+	left: 0;
+	bottom: 0;
 	background-color: #B7D84B;
+}
+#amarillo{
+	background-color: #FAFF16;
+	right: 0;
+	bottom: 0;
 }
