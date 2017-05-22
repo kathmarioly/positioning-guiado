@@ -19,7 +19,7 @@ body{
 
 #azul{
 	background-color: #2b7db9;
-	position: relative;
+	position: relative; /* para que la posicion dependa de sus propias cordenas*/
 	left: 200px;
 }
 
