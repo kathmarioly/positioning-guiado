@@ -21,10 +21,11 @@ body{
 
 #azul{
 	background-color: #2b7db9;
-	position: absolute; /*absolute no respeta el flujo(flow
-	)del documento */
+	/*position: absolute; absolute no respeta el flujo(flow
+	)del documento 
 	top: 200px;
-	left: 200px;
+	left: 200px;*/
+	
 	/*position: relative;  para que la posicion dependa de sus propias cordenas*/
 	/*right: 0;
 	top: 0; */
